@@ -20,6 +20,7 @@ The PRPL pattern, in a nutshell:
 
 ### Setup
 
+
 ##### Prerequisites
 
 Install [Polymer CLI](https://github.com/Polymer/polymer-cli) using

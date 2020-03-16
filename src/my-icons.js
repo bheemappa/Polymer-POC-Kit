@@ -29,4 +29,5 @@ $_documentContainer.innerHTML = `<iron-iconset-svg name="my-icons" size="24">
   </svg>
 </iron-iconset-svg>`;
 
+
 document.head.appendChild($_documentContainer.content);
