@@ -47,4 +47,5 @@ class AppHome extends PolymerElement {
   }
 }
 
+
 window.customElements.define('app-home', AppHome);

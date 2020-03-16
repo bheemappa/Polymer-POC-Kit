@@ -88,4 +88,5 @@ class AppLogin extends PolymerElement {
     }
   }
 }
+
 window.customElements.define('app-login', AppLogin)

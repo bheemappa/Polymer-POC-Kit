@@ -25,4 +25,5 @@ class MyView404 extends PolymerElement {
   }
 }
 
+
 window.customElements.define('my-view404', MyView404);
